@@ -1,1 +1,1 @@
-# WeatherAlertsApp
+# WeatherAlerts
