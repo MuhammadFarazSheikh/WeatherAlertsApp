@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAlerts</string>
+    <string name="search_weather_placeholder">Search Weather...</string>
+    <string name="three_days_weather_forecast_title">3 Days Weather Forecast</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="wind_title">Wind</string>
+    <string name="sunrise_title">Sunrise</string>
+    <string name="sunset_title">Sunset</string>
+    <string name="hourly_forecast_title">Hourly Forecast</string>
+    <string name="time_title">Time</string>
+    <string name="temperature_title">Temperature</string>
+    <string name="feels_title">Feels</string>
+</resources>
